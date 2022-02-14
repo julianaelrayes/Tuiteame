@@ -1,4 +1,4 @@
-# Project 3 - Tuiteame
+# Project 3 - *Name of App Here*
 
 Tuiteame is a basic twitter app to read your tweets.
 
