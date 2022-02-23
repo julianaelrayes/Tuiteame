@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/8IArLxe.gif)
+![](https://i.imgur.com/0s0GA5J.gif)
 
 # Project 3 - Tuiteame
 
