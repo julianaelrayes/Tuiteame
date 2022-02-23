@@ -22,7 +22,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /># Project 3 - Tuiteame
+![](https://i.imgur.com/8IArLxe.gif)
+
+# Project 3 - Tuiteame
 
 Tuiteame is a basic twitter app to read your tweets.
 
@@ -48,3 +50,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/v5RGvbS.gif)
+
