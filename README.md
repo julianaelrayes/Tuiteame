@@ -1,6 +1,6 @@
 # Twitter
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a basic twitter app to view, compose, favorite, and retweet tweets. • It uses Twitter API to allow users to log in to their actual Twitter accounts to view their timeline tweets.
 
 ## User Stories
 
